@@ -243,9 +243,9 @@ div.testimonials .testi-item .testi-item_blockquote  sub{
     padding-left: 40px;
     padding-top: 22px;
 }
-div.testimonials .testi-item{
-	width:550px;
-}
+/*div.testimonials .testi-item{*/
+	/*width:550px;*/
+/*}*/
 
 div.testimonials .testi-item .testi-item_blockquote a::after {
     background: rgba(0, 0, 0, 0) url("images/quotes_last.png") no-repeat scroll 0 0;
